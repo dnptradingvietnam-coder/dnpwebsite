@@ -98,7 +98,7 @@ const Hero = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1920" 
+          src="https://dnpcorp.vn/media/about.png?v=2" 
           alt="Nhà máy hiện đại" 
           className="w-full h-full object-cover"
         />
@@ -473,19 +473,19 @@ const Services = () => {
       icon: <Droplets size={48} />,
       title: "Ống nhựa & Phụ kiện",
       desc: "Cung cấp ống nhựa HDPE, uPVC, PPR và phụ kiện ngành nước chất lượng cao cho các công trình dân dụng và công nghiệp.",
-      image: "https://images.unsplash.com/photo-1605600659908-0ef719419d41?auto=format&fit=crop&q=80&w=800"
+      image: "https://dnpcorp.vn/media/hstnc.png"
     },
     {
       icon: <Package size={48} />,
       title: "Bao bì cứng & Gia dụng",
       desc: "Giải pháp bao bì cứng, phôi chai ép, chai lọ thành phẩm. Sản phẩm gia dụng: thau, chậu, bình giữ nhiệt, hộp thực phẩm.",
-      image: "https://images.unsplash.com/photo-1603380353725-f8a4d39cc41e?auto=format&fit=crop&q=80&w=800"
+      image: "https://tanphuvietnam.vn/wp-content/uploads/2023/04/bao-bi-hoa-my-pham-2.png"
     },
     {
       icon: <Factory size={48} />,
       title: "Bao bì mềm (Soft Packaging)",
       desc: "Sản xuất bao bì túi quai xách, túi đựng rác, túi đựng thực phẩm với công nghệ in ấn sắc nét, chất lượng cao.",
-      image: "https://images.unsplash.com/photo-1530587191325-3db32d826c18?auto=format&fit=crop&q=80&w=800"
+      image: "https://tanphuvietnam.vn/wp-content/uploads/2023/04/tui-rac.png"
     }
   ];
 
