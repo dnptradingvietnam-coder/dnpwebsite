@@ -925,14 +925,14 @@ const QuickQuote = () => {
 
 const Projects = () => {
     const projects = [
-        { name: "Dự Án Cấp Nước Vùng 1", capacity: "Công suất 300.000 m3/ngày đêm", img: "https://images.unsplash.com/photo-1581244277943-fe4a9c777189?auto=format&fit=crop&q=80&w=600" },
-        { name: "Dự Án Cấp Nước Trảng Bàng", capacity: "Công suất 100.000 m3/ngày đêm", img: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&q=80&w=600" },
-        { name: "Dự Án Cấp Nước Sơn Thạnh", capacity: "Công suất 100.000 m3/ngày đêm", img: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=600" },
-        { name: "Dự Án Cấp Nước Bình Hiệp", capacity: "Công suất 36.250 m3/ngày đêm", img: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80&w=600" },
-        { name: "Dự Án Cấp Nước Đồng Tâm", capacity: "Công suất 90.000 m3/ngày đêm", img: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=600" },
-        { name: "Dự Án Cấp Nước Bắc Giang", capacity: "Công suất 60.000 m3/ngày đêm", img: "https://images.unsplash.com/photo-1590247813693-5541d1c609fd?auto=format&fit=crop&q=80&w=600" },
-        { name: "Dự Án Cấp Thoát Nước Củ Chi", capacity: "Công suất 100.000 m3/ngày đêm", img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=600" },
-        { name: "Dự Án Cấp Nước Thừa Thiên Huế", capacity: "Công suất 250.000 m3/ngày đêm", img: "https://images.unsplash.com/photo-1518116550798-2508112c324c?auto=format&fit=crop&q=80&w=600" },
+        { name: "Dự Án Cấp Nước Vùng 1", capacity: "Công suất 300.000 m3/ngày đêm", img: "https://images2.thanhnien.vn/528068263637045248/2025/10/24/khoi-cong-du-an-cap-nuoc-1-1761277866918288210479.jpg" },
+        { name: "Dự Án Cấp Nước Trảng Bàng", capacity: "Công suất 100.000 m3/ngày đêm", img: "https://www.senco.com.vn/upload/senco/images/Trang%20Bang%20Tay%20Ninh/2.jpg" },
+        { name: "Dự Án Cấp Nước Sơn Thạnh", capacity: "Công suất 100.000 m3/ngày đêm", img: "https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/082023/img_3368_1_20230808172419.jpg" },
+        { name: "Dự Án Cấp Nước Bình Hiệp", capacity: "Công suất 36.250 m3/ngày đêm", img: "https://dnpwater.vn/wp-content/uploads/2017/12/Nha-may-Binh-Hiep.jpg" },
+        { name: "Dự Án Cấp Nước Đồng Tâm", capacity: "Công suất 90.000 m3/ngày đêm", img: "https://image.vietstock.vn/2012/06/11/63378.jpg" },
+        { name: "Dự Án Cấp Nước Bắc Giang", capacity: "Công suất 60.000 m3/ngày đêm", img: "https://tng-solutions.vn/uploads/projects/bac-giang.jpg" },
+        { name: "Dự Án Cấp Thoát Nước Củ Chi", capacity: "Công suất 100.000 m3/ngày đêm", img: "https://koastal-eco.com.vn/UserFile/editor/images/XLNT-KCN-An-Phat-1-1.jpg" },
+        { name: "Dự Án Cấp Nước Thừa Thiên Huế", capacity: "Công suất 250.000 m3/ngày đêm", img: "https://i.ex-cdn.com/nhadautu.vn/files/content/2024/04/02/huewaco-0626.jpg" },
     ];
 
     // Pagination Logic
