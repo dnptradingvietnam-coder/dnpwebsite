@@ -823,6 +823,7 @@ const QuickQuote = () => {
                                         >
                                             <option value="">Chọn đơn vị...</option>
                                             <option value="met">Mét (m)</option>
+                                            <option value="cay">Cây</option>
                                             <option value="kg">Kg</option>
                                             <option value="cai">Cái</option>
                                         </select>
